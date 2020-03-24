@@ -1,28 +1,38 @@
 {
-  "numbers": [
+  "calls": [
     {
-      "name": "Foo",
-      "number": "1111111111"
+      "contactIdentifier": "Foo",
+      "handle": "1111111111"
     },
     {
-      "name": "Goo",
-      "number": "2222222222"
+      "contactIdentifier": "Goo",
+      "handle": "2222222222"
     },
     {
-      "name": "Hoo",
-      "number": "3333333333"
+      "contactIdentifier": "Hoo",
+      "handle": "3333333333"
     },
     {
-      "name": "Joo",
-      "number": "4444444444"
+      "contactIdentifier": "Joo",
+      "handle": "4444444444"
     },
     {
-      "name": "Koo",
-      "number": "5555555555"
+      "contactIdentifier": "Koo",
+      "handle": "5555555555"
     },
     {
-      "name": "Loo",
-      "number": "6666666666"
+      "contactIdentifier": "Loo",
+      "handle": "6666666666"
+    },
+    {
+      "contactIdentifier": "Moo",
+      "handle": "7777777777"
+    },
+    {
+      "contactIdentifier": "Noo",
+      "handle": "8888888888"
     }
   ]
 }
+
+
