@@ -1,0 +1,34 @@
+[
+  {
+    "id":7567564,
+    "name":"Post-It, 25x38mm, 66/fp",
+    "perma":"postit-p-6534634.html",
+    "stocked":true,
+    "quantityInStock":100,
+    "vatRate":2500,
+    "price":65,
+    "unit":"st",
+  }
+  ,
+  {
+    "id":6646,
+    "name":"Gaffelpärm A4, 60mm",
+    "perma":"kontorsparm-vinrod-p-25",
+    "stocked":true,
+    "quantityInStock":2274,
+    "vatRate":2500,
+    "price":23,
+    "unit":"st",
+  }
+  ,
+  {
+    "id":5345,
+    "name":"Chair",
+    "perma":"kontorsstol-crusader-p-25",
+    "stocked":true,
+    "quantityInStock":22,
+    "vatRate":2500,
+    "price":2067,
+    "unit":"st",
+  }
+]
