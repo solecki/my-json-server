@@ -8,7 +8,7 @@
       "quantityInStock":100,
       "vatRate":2500,
       "price":65,
-      "unit":"st",
+      "unit":"st"
     },
     {
       "id":6646,
@@ -18,7 +18,7 @@
       "quantityInStock":2274,
       "vatRate":2500,
       "price":23,
-      "unit":"st",
+      "unit":"st"
     },
     {
       "id":5345,
@@ -28,7 +28,7 @@
       "quantityInStock":22,
       "vatRate":2500,
       "price":2067,
-      "unit":"st",
+      "unit":"st"
     }
   ]
 }
