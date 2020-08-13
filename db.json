@@ -1,5 +1,5 @@
 {
-  "products": [
+  "products":
     {
       "id":7567564,
       "name":"Post-It, 25x38mm, 66/fp",
@@ -30,5 +30,4 @@
       "price":2067,
       "unit":"st"
     }
-  ]
 }
